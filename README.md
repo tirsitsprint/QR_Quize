@@ -119,6 +119,11 @@ Open the local URL displayed by Vite in your browser.
 - Export quiz results.
 - Online deployment.
 - Improved mobile responsiveness.
+  +++++++++++++++++++++++++++++
+- Give alert for admin if another tab is opened
+- Show how much student are taking the exam
+- Admin has privilege to remove cheater students from the exam
+- Show students result for admin after they finished their exam and keep the recored
 
 ## Purpose
 
