@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Build files
+dist/
+build/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
